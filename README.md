@@ -1,5 +1,9 @@
+###
+
 <div align="center">
-  ![](https://github.com/batouldiab/batouldiab/blob/main/programming-girl.gif)
+  
+  ![](https://github.com/batouldiab/batouldiab/blob/main/programming-girl.gif) 
+
 </div>
 
 ###
